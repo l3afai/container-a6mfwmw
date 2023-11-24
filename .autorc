@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "l3afai",
+  "repo": "container-a6mfwmw",
+  "name": "l3afai",
+  "email": "jaykayaitraining@gmail.com",
+}
